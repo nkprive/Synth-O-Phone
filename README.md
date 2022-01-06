@@ -1,16 +1,8 @@
 # synth_o_phone
 
-A new Flutter project.
+A fun synthesizer app that lets you solo over a backing track.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/17130544/148464888-bb9ca22c-29df-4430-8069-c13d04eca7fb.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(listen with sound :])
